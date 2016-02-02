@@ -43,11 +43,5 @@ public class Blackjack {
 						", Kartenwert: "+players.get(p)+"\n";
 		}
 		return result;
-	}
-	
-
-	
-	
-	
-	
+	}	
 }
